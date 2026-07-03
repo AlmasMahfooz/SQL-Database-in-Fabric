@@ -10,8 +10,12 @@ Dash Mesh build-in?
 
 
 
+
 if you create a table in Fabric it will be Delta Parquet format (Delta Table )except for SQL table.
+
 difference b/w  pipeline and DataFlow?
 
+
 Database Mirriring-> only Snowflake and Azure SQL DB is avalabale for database mirroring as GA(Generally Available)
+
 Cosmose DB, Azure SQL MI,Azure Databricks Catelog is in PP(public Preview)
